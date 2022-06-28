@@ -1,2 +1,2 @@
-#!/bin/bas
-echo "$((10#$BINARY))16"
+#!/bin/bash
+printf "%x\n" $DECIMAL
